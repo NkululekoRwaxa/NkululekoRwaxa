@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=900&t=st=1689070943~exp=1689071543~hmac=8a8a533da8d5a7f90c7edd1259bbcd0e2e6bc1156a8ed05d59b47f36702fe432)]
+![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=900&t=st=1689070943~exp=1689071543~hmac=8a8a533da8d5a7f90c7edd1259bbcd0e2e6bc1156a8ed05d59b47f36702fe432)
 <h1 align="center">Hi 👋, I'm Nkululeko Rwaxa</h1>
 <h3 align="center">I am an aspiring web & software developer from Cape Town. I am proficient in MERN Stack, C#, Java & Android development, and SQL (SQL Server & PostgreSQL)</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQSocHc8PdV2mhF_CjnykiIs7whgfpyWoHg&usqp=CAU"/>
